@@ -1,0 +1,43 @@
+C:\Users\user\AppData\Local\Temporary Projects\QuickGest\bin\Debug\QuickGest.exe
+C:\Users\user\AppData\Local\Temporary Projects\QuickGest\bin\Debug\QuickGest.pdb
+C:\Users\user\AppData\Local\Temporary Projects\QuickGest\bin\Debug\QuickGest.xml
+C:\Users\user\AppData\Local\Temporary Projects\QuickGest\obj\Debug\QuickGest.vbprojResolveAssemblyReference.cache
+C:\Users\user\AppData\Local\Temporary Projects\QuickGest\obj\Debug\QuickGest.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\QuickGest\obj\Debug\QuickGest.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\QuickGest\obj\Debug\QuickGest.vbproj.CoreCompileInputs.cache
+C:\Users\user\AppData\Local\Temporary Projects\QuickGest\obj\Debug\QuickGest.exe
+C:\Users\user\AppData\Local\Temporary Projects\QuickGest\obj\Debug\QuickGest.xml
+C:\Users\user\AppData\Local\Temporary Projects\QuickGest\obj\Debug\QuickGest.pdb
+C:\Users\user\AppData\Local\Temporary Projects\QuickGest\obj\Debug\QuickGest.QuickGest.resources
+C:\Users\user\Desktop\QuickGest\QuickGest\bin\Debug\QuickGest.exe
+C:\Users\user\Desktop\QuickGest\QuickGest\bin\Debug\QuickGest.pdb
+C:\Users\user\Desktop\QuickGest\QuickGest\bin\Debug\QuickGest.xml
+C:\Users\user\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.vbprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.QuickGest.resources
+C:\Users\user\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.Resources.resources
+C:\Users\user\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.exe
+C:\Users\user\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.xml
+C:\Users\user\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.pdb
+C:\Users\asus\Desktop\QuickGest\QuickGest\bin\Debug\QuickGest.exe
+C:\Users\asus\Desktop\QuickGest\QuickGest\bin\Debug\QuickGest.pdb
+C:\Users\asus\Desktop\QuickGest\QuickGest\bin\Debug\QuickGest.xml
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.vbprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.QuickGest.resources
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.Resources.resources
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.vbproj.GenerateResource.Cache
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.exe
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.xml
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.pdb
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.AddStock.resources
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.AddCliente.resources
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.EditStock.resources
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.EditClients.resources
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.SearchStock.resources
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.SearchCli.resources
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.AddCompras.resources
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.AddToShoppingList.resources
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.editList.resources
+C:\Users\asus\Desktop\QuickGest\QuickGest\obj\Debug\QuickGest.historyByClient.resources

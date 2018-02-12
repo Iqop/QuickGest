@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5ED4113C-4C7B-4DCB-80A7-F1569FE52573}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>QuickGest.My.MyApplication</StartupObject>
+    <RootNamespace>QuickGest</RootNamespace>
+    <AssemblyName>QuickGest</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>QuickGest.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>QuickGest.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>if_1-08_511566.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddCliente.Designer.vb">
+      <DependentUpon>AddCliente.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddCompras.Designer.vb">
+      <DependentUpon>AddCompras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddCompras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddStock.Designer.vb">
+      <DependentUpon>AddStock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddToShoppingList.Designer.vb">
+      <DependentUpon>AddToShoppingList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AddToShoppingList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditClients.Designer.vb">
+      <DependentUpon>EditClients.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditClients.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editList.Designer.vb">
+      <DependentUpon>editList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="editList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditStock.Designer.vb">
+      <DependentUpon>EditStock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="historyByClient.Designer.vb">
+      <DependentUpon>historyByClient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="historyByClient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SearchCli.Designer.vb">
+      <DependentUpon>SearchCli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchCli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchStock.Designer.vb">
+      <DependentUpon>SearchStock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SearchStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddCliente.resx">
+      <DependentUpon>AddCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddCompras.resx">
+      <DependentUpon>AddCompras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddStock.resx">
+      <DependentUpon>AddStock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddToShoppingList.resx">
+      <DependentUpon>AddToShoppingList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditClients.resx">
+      <DependentUpon>EditClients.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="editList.resx">
+      <DependentUpon>editList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditStock.resx">
+      <DependentUpon>EditStock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="historyByClient.resx">
+      <DependentUpon>historyByClient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchCli.resx">
+      <DependentUpon>SearchCli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchStock.resx">
+      <DependentUpon>SearchStock.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="if_1-08_511566.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
